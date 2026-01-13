@@ -36,19 +36,6 @@ The system works as a **Social-to-Lead Agent**:
 
 
 
-## ⚙️ Installation & Setup
-
-### 1️⃣ Python Version
-Make sure **Python 3.11** is installed.
-
-### 2️⃣ Install Required Libraries
-```bash
-pip install langchain langchain-community langchain-text-splitters langchain-groq faiss-cpu python-dotenv pydantic
-
-
-
-
-
 User
 ↓
 Intent Detection (LLM)
@@ -89,6 +76,20 @@ social-to-lead-agent/
 ├── leads.csv # Stored leads
 ├── .env # GROQ API key (not pushed to GitHub)
 └── README.md
+
+## ⚙️ Installation & Setup
+
+### 1️⃣ Python Version
+Make sure **Python 3.11** is installed.
+
+### 2️⃣ Install Required Libraries
+```bash
+pip install langchain langchain-community langchain-text-splitters langchain-groq faiss-cpu python-dotenv pydantic
+
+
+
+
+
 
 
 
