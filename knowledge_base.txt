@@ -1,0 +1,17 @@
+Product Name: LeadFlow AI
+
+Description:
+LeadFlow AI is a SaaS platform that helps businesses automate social media conversations and convert them into qualified leads using AI-powered chat agents.
+
+Key Features:
+- Automated replies for Instagram and LinkedIn DMs
+- AI-based intent detection to identify high-intent users
+- Lead capture and qualification
+- Integration-ready for CRM systems
+
+Pricing:
+Starter Plan: ₹999/month
+Pro Plan: ₹2999/month
+
+Target Users:
+Small and medium businesses, agencies, and startups looking to automate lead generation from social platforms.
