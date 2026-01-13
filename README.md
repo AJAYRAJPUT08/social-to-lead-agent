@@ -62,9 +62,6 @@ Lead Stored (CSV)
 
 ## 📂 Project Structure
 
-
-
-
 social-to-lead-agent/
 │
 ├── app.py # Main chatbot loop
@@ -86,11 +83,4 @@ Make sure **Python 3.11** is installed.
 ```bash
 pip install langchain langchain-community langchain-text-splitters langchain-groq faiss-cpu python-dotenv pydantic
 
-
-
-
-
-
-
-
-Thank You !
+####Thank You !
